@@ -129,7 +129,7 @@ sudo -u postgres psql -d jerney_db  # Connect to database
 cd backend
 npm install
 
-# Create a .env file (or export these variables)
+# Create a .env file (or export these variables)in backend 
 export DB_HOST=localhost
 export DB_PORT=5432
 export DB_USER=jerney_user
